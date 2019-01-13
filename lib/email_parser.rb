@@ -4,8 +4,8 @@ def EmailParser
 
   attr_accessor :list_of_emails
 
-  def initiialize(unformatted_emails)
-    @unformatted_emails = unformatted_emails
+  def initiialize()
+
   end
 
 end
