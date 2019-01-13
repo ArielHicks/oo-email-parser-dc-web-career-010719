@@ -8,6 +8,9 @@ def EmailParser
     @emails = emails
   end
 
+  def parse
+    emails.split(/, | /).uniq
+
 end
 
 
