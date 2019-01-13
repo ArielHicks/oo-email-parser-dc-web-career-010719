@@ -6,7 +6,6 @@ def EmailParser
 
   def initiialize(emails)
     @emails = emails
-
   end
 
 end
