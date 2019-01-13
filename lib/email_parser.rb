@@ -2,9 +2,9 @@
 # emails.
 def EmailParser("unformatted_emails")
 
-def initiialize(email)
-  @email = email
-  
+  def initiialize(email)
+    @email = email
+  end
 
 end
 
