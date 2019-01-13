@@ -3,7 +3,7 @@
 def EmailParser
 
   def initiialize("unformatted_emails")
-    @emails = "unformatted_emails"
+    @unformatted_emails = "unformatted_emails"
   end
 
 end
