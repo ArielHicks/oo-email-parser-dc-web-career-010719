@@ -2,7 +2,7 @@
 # emails.
 def EmailParser
 
-  def initiialize("unformatted_emails")
+  def initiialize(unformatted_emails)
     @unformatted_emails = "unformatted_emails"
   end
 
