@@ -2,7 +2,7 @@
 # emails.
 def EmailParser
 
-  attr_accessor :list_of_emails
+  attr_accessor :emails
 
   def initiialize()
 
