@@ -4,7 +4,8 @@ def EmailParser
 
   attr_accessor :emails
 
-  def initiialize()
+  def initiialize(emails)
+    @emails = emails
 
   end
 
