@@ -1,9 +1,9 @@
 # Build a class EmailParser that accepts a string of unformatted
 # emails.
-def EmailParser("unformatted_emails")
+def EmailParser
 
-  def initiialize(email)
-    @email = email
+  def initiialize("unformatted_emails")
+    @email = "unformatted_emails"
   end
 
 end
